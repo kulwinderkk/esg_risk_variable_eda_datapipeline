@@ -10,3 +10,8 @@ In this repository, I have performed exploratory data analysis on ESG risk varia
   5. Merge individual files to a one master file.
 
 After, preocessing the data I have tried to convert the files in NetCDF format to GeoJSON format.
+
+References -
+Temperature and Precipitation data - https://cds.climate.copernicus.eu/cdsapp#!/dataset/sis-hydrology-meteorology-derived-projections?tab=form
+Wildfire Data - https://cds.climate.copernicus.eu/cdsapp#!/dataset/sis-tourism-fire-danger-indicators?tab=overview
+Global Sea Level Change - https://cds.climate.copernicus.eu/cdsapp#!/dataset/sis-water-level-change-indicators-cmip6?tab=overview
